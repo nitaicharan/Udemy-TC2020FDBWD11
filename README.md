@@ -7,7 +7,12 @@
 
 Project available to access at: https://nitaicharan.github.io/Udemy-TC2020FDBWD11/
 
-[![](Udemy-TC2020FDBWD11.gif)](https://nitaicharan.github.io/Udemy-TC2020FDBWD11/)
+<!--[![](Udemy-TC2020FDBWD11.png)](https://nitaicharan.github.io/Udemy-TC2020FDBWD11/)-->
+<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD11">
+  <p align="center">
+    <img src="Udemy-TC2020FDBWD11.gif" width="350" title="hover text">
+  </p>
+</a>
 
 ## About course
 This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
@@ -17,7 +22,7 @@ This project was part of the Udemy course "The Complete 2020 Flutter Development
 - Description: [Link][course-url]
 
 ### Certificate
-This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [The Complete 2020 Flutter Development Bootcamp with Dart][course-url] on 12/27/2019 as taught by [Angela Yu][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
+This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [The Complete 2020 Flutter Development Bootcamp with Dart][course-url] on 01/21/2019 as taught by [Angela Yu][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
 
 [![](certificate.jpg)][certificate-url]
 
